@@ -1,0 +1,14 @@
+com\nightsafe\backend\controller\EmergencyController.class
+com\nightsafe\backend\model\Contact.class
+com\nightsafe\backend\controller\ContactController.class
+com\nightsafe\backend\controller\AuthController.class
+com\nightsafe\backend\model\EmergencyTracking.class
+com\nightsafe\backend\security\SecurityConfig.class
+com\nightsafe\backend\model\Contact$ContactBuilder.class
+com\nightsafe\backend\model\User.class
+com\nightsafe\backend\repository\UserRepository.class
+com\nightsafe\backend\model\User$UserBuilder.class
+com\nightsafe\backend\BackendApplication.class
+com\nightsafe\backend\repository\EmergencyTrackingRepository.class
+com\nightsafe\backend\model\EmergencyTracking$EmergencyTrackingBuilder.class
+com\nightsafe\backend\repository\ContactRepository.class
