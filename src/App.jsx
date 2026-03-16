@@ -3,7 +3,7 @@ import { queryClient } from "./lib/queryClient";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "./components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { APIProvider } from "@vis.gl/react-google-maps";
+
 import Dashboard from "@/pages/dashboard";
 import NotFound from "@/pages/not-found";
 import AIChatAdvisor from "./Component/AIChatAdvisor";
